@@ -1,0 +1,10 @@
+*.pyc
+__pycache__
+
+# Editor
+.*.sw[op]
+
+# Packaging
+build/
+dist/
+auth_flask_restful.egg-info/
